@@ -6,7 +6,7 @@
   * https://github.com/ematvey/hierarchical-attention-networks
 
 ## The goal of the project
-* To make a improved attention method using the sequence of the sentence.
+* To make a improved attention method using more informations(user, product, sequence of the sentence).
 * Changing the word embedding method to pretrained data of GloVe
 
 ## 1'st milestone
